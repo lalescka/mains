@@ -27,32 +27,45 @@ que no meu caminho foram cooperação e desafio, pois moldaram quem sou hoje. Só v
 
 
 
-Exercicio 1,1: 	O exercicio 1 solicita do aluno um levantamento de pesquisa de aplicações
-na vida real da utilização de sistemas distribuidos, deve ser feito a discretização 
-de 2 aplicações pontuando os pontos de escalabilidade, flexibilidade, confiabilidade
-que são utilizados no SD em questão.
+Exercicio 1,1: 	
+Enunciado : levantamento de pesquisa de aplicações da utilização de sistemas distribuidos na vida real;
+Modo de fazer: O levantamento de pesuisa deve conter a discretização de 2 aplicações pontuando os pontos 
+de escalabilidade, flexibilidade, confiabilidade que são utilizados no SD em questão.
+Objetivo: Esse levantamento de pesquisa tem por objetivo dar consistencia aos conceitos introdutorios 
+apresentados na aula 1.
 
 
 
 Exercicio Aulo 1.2
 
-O exercicio 2 solicita do aluno que o mesmo aponte as vantagens e desvantagens dos 
-tipos de rede Lan,wlan.. e assim por diante. Essa atividade tem por obejetivo
-conduzir o aluno ao estudo mais aprofundado das estruras de redes para que o mesmo
-quando precisar rojetar, seja capaz de direcionar a melhor estrutura de rede para
-solucionar o problema em questao.
+O exercicio 2:
+Enunciado: Apontar as vantagens e desvantagens dos tipos de rede LANs; WANs; MANs; WLANs; WMANs; WWANs;
+Inter-Redes.
+Modo de fazer: Essa atividade deve ser feita através de referencias bibliograficas
+e pontuação do que foi solicitado.
+Objetivo: Essa atividade tem por objetivo conduzir o aluno ao estudo mais aprofundado 
+das estruturas de redes para que o mesmo quando precisar projetar, seja capaz de direcionar 
+a melhor estrutura de rede para solucionar o problema em questao.
 
 
 
 Exercicio 3.1
-O exercicio 3 solicitara do aluno uma defesa referente a utilizaçã de middleware 
-nas arquiteturas de sistemas distribuidos, o mesmo terá
-que explanar os beneficios dessa camada nas aquiteturas e as desvantagens da ausencia
-desse tipo de camada, de modo a levar seu conhecimento para um nivel tecnico de construção.
+Enunciado: Levantamento de pequisa referente a utilização de middleware nas arquiteturas de 
+sistemas distribuidos.
+Modo de fazer: Deverá constar no trabalhoos beneficios dessa camada nas aquiteturas e as desvantagens
+da ausencia desse tipo de camada em um SD.
+Objetivo: Conduzir o conhecimento do aluno para um nivel tecnico referente a construção de um SD.
+
 
 Exercicio 3.2
 
-
+Enunciado: Apresentar 3 exemplos praticos de aruiteturas de sistemas Centralizados,
+descentralizados , Hibridas e da arquitetura P2P.
+Modo de Fazer: A pesquisa deve conter descrição do sistemas e o funcionamento de sua
+aplicabilidade pratica.
+Objetivo: Com a pesquisa direcionada para aplicações praticas o aluno
+expande seu campo de visão para fora da academia, de modo que exemlos
+da vida real façam a integração dos conceitos com a pratica.
 
 
 
