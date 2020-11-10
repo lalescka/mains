@@ -1,0 +1,71 @@
+"Sonhem com ambição, lidem com convicção e se vejam de uma forma que os outros podem não te ver, 
+simplesmente porque nunca viram isso antes" essa parte do discurso de Harris VP dos EUA , descreve
+exatamente o que sempre fiz ainda que fosse inconciente.
+
+Hoje encerro uma fase de MUITO amadurecimento e crescimento profissional na Samsung SEDA manaus, eu amo a profissão que escolhi
+amo ser egenheira, amei ter meus projetos reconhecidos pela COREIA, amei fazer o que faço de melhor enquanto estive aqui,
+especialistas dizem que se tem de 3 a 5 carreiras ao longo da vida, se for assim, ja fui dona de uma mini empresa de brounies rsrs,
+ja atuei na area de vendas como lojista em shopping e hoje sou engenheira, absolutamente nada me parou
+até hoje, venho de uma familia tipica da classe trabalhadora, nunca tive a chance de estudar ingles
+quando criança, ganhei uns livros doados e assim fui desenrolando, também nao estudei nas melhores escolas particulares, 
+mas isso nao me impediu de aos 17 anos defender um projeto em uma lingua estrangeira e ser selecionada para o ICYS(Yong Cintistes),
+tao pouco me impediu de entrar para  uma boa universidade, o que também não me impediu de ser selecionada para um dos programas 
+de estagio concorrido aos 20 na multinacional JABIL e aos 22 ser contratada em outra,
+ minhas limitações não me impediram, tornaram o caminho trabalhoso, mas cada um tem sua propria jornada.
+
+Hoje faço mais uma decisão, saio da minha cidade, para integrar o grupo de pesquisa de mestrado em IA na USP 
+mais uma conquista ? sim , um novo caminho ? tambem, para alguns pode ser um passo atras, para outros dois passos a frente,
+para mim é mais uma daquelas coisas que acontecem e nos levam para onde precisamos estar. Agradeço em absoluto a todos
+que no meu caminho foram cooperação e desafio, pois moldaram quem sou hoje. Só vai ser, quem ja é.
+
+
+
+
+
+
+
+
+
+
+Exercicio 1,1: 	O exercicio 1 solicita do aluno um levantamento de pesquisa de aplicações
+na vida real da utilização de sistemas distribuidos, deve ser feito a discretização 
+de 2 aplicações pontuando os pontos de escalabilidade, flexibilidade, confiabilidade
+que são utilizados no SD em questão.
+
+
+
+Exercicio Aulo 1.2
+
+O exercicio 2 solicita do aluno que o mesmo aponte as vantagens e desvantagens dos 
+tipos de rede Lan,wlan.. e assim por diante. Essa atividade tem por obejetivo
+conduzir o aluno ao estudo mais aprofundado das estruras de redes para que o mesmo
+quando precisar rojetar, seja capaz de direcionar a melhor estrutura de rede para
+solucionar o problema em questao.
+
+
+
+Exercicio 3.1
+O exercicio 3 solicitara do aluno uma defesa referente a utilizaçã de middleware 
+nas arquiteturas de sistemas distribuidos, o mesmo terá
+que explanar os beneficios dessa camada nas aquiteturas e as desvantagens da ausencia
+desse tipo de camada, de modo a levar seu conhecimento para um nivel tecnico de construção.
+
+Exercicio 3.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
