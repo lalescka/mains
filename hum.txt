@@ -1,0 +1,10 @@
+Artigo: Deep Visual-Semantic Alignments for generating Image Descriptions
+
+O artigo apresenta uma proposta de um modelo que execute de modo similar as mesmas funções que nosso cérebro desempenha ao discriminar itens e objetos diversos quando vistos em uma imagem, ou seja, um modelo que utiliza  uma  RNC (Redes Neurais Convolucionais) para aplicação nas regiões de imagem, uma RNR (Rede Neural Recorrente) bidirecional para tratativa das sentenças, para que o modelo proposto que seja capaz de gerar descrições em linguagem natural a partir de uma imagem. Essa estruturação é possível através da incorporação multimodal. 
+A problemática em questão contempla todas as dificuldades que são encontradas quando se trada de algoritmos de descrição de objetos aplicados a imagem. O recurso biológico natural, que são os olhos humanos tem alta capacidade de análise, ainda que em poucos minutos, visto isso propõe-se uma aprendizagem computacional pratica capaz de visualizar o maior número de detalhes e treinar o algoritmo de forma positiva.
+Nesse trabalho, foram apresentados os modelos de Rede Neural Profunda e Arquitetura de Rede Neural Recorrente Multimodelo.        
+A rede Neural profunda tem por objetivo fornecer os dados descritivos das imagens e rede neural recorrente de gerar os trechos referente as escritas da imagem A
+Rede Neural Recorrente multimodal, com o modelo de RNR foi alcançado o objetivo dada uma imagem tem-se a sequência de palavras eu descrevem a região.
+	O processo de treinamento da rede foi satisfatório, foi feita a mensuração da qualidade do alinhamento do texto e imagem inferidos. O processo de execução desse trabalho apresentou uma abordagem diferenciada considerando a união de dois estilos o de linguagem e o visual através da incorporação multimodal comum. Uma questão interessante foi a aplicação de fullframe,
+
+
